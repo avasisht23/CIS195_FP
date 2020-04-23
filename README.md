@@ -1,5 +1,5 @@
 # Final Project for CIS195: iOS Programming - Map Quest
-By : Ajay Vasisht
+By : Ajay Vasisht (PennKey: avasisht)
 
 Features
 - NLP Search on Apple Maps
